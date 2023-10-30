@@ -1,0 +1,1 @@
+import Lab2 as bmi
